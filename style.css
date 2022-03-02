@@ -1,0 +1,29 @@
+body{
+    background-color: #ff583b;
+}
+#buttonContainer{
+    margin: auto;
+    padding: 20px;
+    width: 50%;
+}
+#header{
+    text-align: center;
+}
+#timerCtd{
+    margin: auto;
+    padding: 20px;
+    width: 50%;
+    text-align: center;
+}
+
+.doroButtons{
+    background-color:red;
+    border-radius: 10%;
+    height:100px;
+    width:300px;
+    text-align: center;
+}
+
+#footer{
+    text-align: center;
+}
